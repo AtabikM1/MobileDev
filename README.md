@@ -1,6 +1,7 @@
 # MobileDev
 # Codelab Dart
-
+## Soal 1
+- Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
 ## Soal 2
 ### Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter?
 - Flutter dibangun sepenuhnya menggunakan **Dart**, sehingga seluruh logika aplikasi, widget, dan state management ditulis dengan Dart.  
