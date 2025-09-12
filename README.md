@@ -18,7 +18,7 @@
 ### Rangkumlah materi dari codelab ini menjadi poin-poin penting
 - **Dasar Sintaks Dart** → variabel, tipe data, operator, kontrol alur (if, for, while).  
 - **Fungsi (Function)** → reusable code untuk mengurangi duplikasi.  
-- **Object Oriented Programming (OOP)** → class, objek, inheritance, encapsulation, polymorphism.  
+- **Object Oriented Programming (OOP)** → class, objek, inheritance, composition, encapsulation, polymorphism.  
 - **Collection** → list, map, set untuk mengelola data.  
 - **Null Safety** → mengurangi error `null` dengan sistem aman.  
 - **Late Modifier** → menunda inisialisasi variabel hingga diperlukan.  
