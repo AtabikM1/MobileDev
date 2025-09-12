@@ -2,6 +2,7 @@
 # Codelab Dart
 ## Soal 1
 - Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
+![ETL Pipeline](img/image_src.png)
 ## Soal 2
 ### Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter?
 - Flutter dibangun sepenuhnya menggunakan **Dart**, sehingga seluruh logika aplikasi, widget, dan state management ditulis dengan Dart.  
@@ -37,6 +38,7 @@
       print(nickname);              // Output: null
     }
     ```
+    ![ETL Pipeline](img/imagenull.png)
 
 - **Late Variabel**  
   - Digunakan untuk menunda inisialisasi variabel hingga nanti saat dipakai.  
@@ -49,7 +51,8 @@
       print(greeting); // Output: Hello, Dart!
     }
     ```
-
+    ![ETL Pipeline](img/imagelate.png)
+    
 **Kesimpulan:**  
 - `null safety` menjaga agar variabel tidak sembarangan null.  
 - `late` menunda inisialisasi variabel hingga memang dibutuhkan.
