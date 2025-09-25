@@ -10,6 +10,11 @@ void main(){
     10: 'neon',
     18: 'argon',
   };
+  var mahasisgaul = {
+    'nama :': 'Atabik Mutawakilalallah',
+    'NIM : ': '2341720090',
+  };
+  print(mahasisgaul);
   print(gifts);
   print(nobleGases);
 
